@@ -3,36 +3,6 @@
 - In this application user can select any video (either mpy, mkv, avi, or any other extension of video) and will be able to encrypt, decrypt and reset the encrypted video to original format.
 -  Along with encryption, decryption, user will also be able to see the preview of encrypted, decrypted and original video.
 
-<p align = "center">
-	<img src = "https://img.shields.io/github/stars/akash-rajak/Video-Encryption-Decryption?style=social", alt = "GitHub Repo stars">
-	<img src = "https://img.shields.io/github/forks/akash-rajak/Video-Encryption-Decryption?style=social", alt = "GitHub Repo forks">
-	<img src = "https://img.shields.io/github/watchers/akash-rajak/Video-Encryption-Decryption?style=social", alt = "GitHub Repo watchers">
-	<img src = "https://img.shields.io/github/contributors/akash-rajak/Video-Encryption-Decryption?style=social", alt = "GitHub contributors">
-</p>
-<p align = "center">
-	<img src = "https://img.shields.io/github/languages/count/akash-rajak/Video-Encryption-Decryption?style=social", alt = "GitHub language count">
-	<img src = "https://img.shields.io/github/languages/top/akash-rajak/Video-Encryption-Decryption?style=social", alt = "GitHub top language">
-	<img src = "https://img.shields.io/github/directory-file-count/akash-rajak/Video-Encryption-Decryption?style=social", alt = "GitHub repo file count">
-	<img src = "https://img.shields.io/github/repo-size/akash-rajak/Video-Encryption-Decryption?style=social", alt = "GitHub repo size">
-</p>
-<p align = "center">
-	<img src = "https://img.shields.io/github/issues/akash-rajak/Video-Encryption-Decryption", alt = "GitHub issues">
-	<img src = "https://img.shields.io/github/issues-closed/akash-rajak/Video-Encryption-Decryption", alt = "GitHub closed issues">
-	<img src = "https://img.shields.io/github/issues-pr/akash-rajak/Video-Encryption-Decryption", alt = "GitHub pull requests">
-	<img src = "https://img.shields.io/github/issues-pr-closed/akash-rajak/Video-Encryption-Decryption", alt = "GitHub closed pull requests">
-</p>
-<p align = "center">
-	<img src = "https://img.shields.io/github/commit-activity/t/akash-rajak/Video-Encryption-Decryption", alt = "GitHub commit activity">
-	<img src = "https://img.shields.io/github/commit-activity/y/akash-rajak/Video-Encryption-Decryption", alt = "GitHub commit activity/year">
-	<img src = "https://img.shields.io/github/commit-activity/m/akash-rajak/Video-Encryption-Decryption", alt = "GitHub commit activity/month">
-	<img src = "https://img.shields.io/github/commit-activity/w/akash-rajak/Video-Encryption-Decryption", alt = "GitHub commit activity/week">
-	<img src = "https://img.shields.io/github/last-commit/akash-rajak/Video-Encryption-Decryption", alt = "GitHub last commit">
-	<img src = "https://img.shields.io/github/discussions/akash-rajak/Video-Encryption-Decryption", alt = "GitHub Discussions">
-</p>
-<p align = "center">
-	<img src = "https://img.shields.io/github/license/akash-rajak/Video-Encryption-Decryption", alt = "Github">
-</p>
-
 ****
 
 ### 📌REQUIREMENTS :
@@ -86,18 +56,3 @@
 
 ****
 
-### 🌟Stargazers Over Time:
-[![Stargazers repo roster for @akash-rajak/Video-Encryption-Decryption](https://reporoster.com/stars/akash-rajak/Video-Encryption-Decryption)](https://github.com/akash-rajak/Video-Encryption-Decryption/stargazers)
-[![Stargazers over time](https://starchart.cc/akash-rajak/Video-Encryption-Decryption.svg)](https://starchart.cc/akash-rajak/Video-Encryption-Decryption)
-
-****
-
-### 🌟Forkers Over Time:
-[![Forkers repo roster for @akash-rajak/Video-Encryption-Decryption](https://reporoster.com/forks/akash-rajak/Video-Encryption-Decryption)](https://github.com/akash-rajak/Video-Encryption-Decryption/network/members)
-
-****
-
-### 📌Contributors:
-<a href="https://github.com/akash-rajak/Video-Encryption-Decryption/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=akash-rajak/Video-Encryption-Decryption" />
-</a>
